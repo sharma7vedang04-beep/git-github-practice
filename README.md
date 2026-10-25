@@ -1,2 +1,11 @@
 # git-github-practice
-My first Git and GitHub practice project
+Git and GitHub Practice
+
+My first repository!
+
+What I am learning
+
+* Git basics
+* GitHub repositories
+* Commits
+* Uploading Java projects
